@@ -1,0 +1,32 @@
+
+
+.user-popup > .user-popup-title {
+        text-align: center;
+        padding: 0 24px 16px;
+    }
+    
+
+.user-popup{
+    padding: 20px !important;
+}
+.user-popup >.user-popup-paper {
+    padding: 26px !important;
+    
+
+}
+
+.user-details-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px !important;
+ 
+}
+
+
+.user-popup-button {
+    background-color: "primaryColor";
+    
+}
+
+
